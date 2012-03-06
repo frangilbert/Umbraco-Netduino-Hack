@@ -1,0 +1,130 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1443" fromTop="42" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1528" fromTop="30" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1528" fromTop="53" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="393" fromTop="20" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="393" fromTop="19" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="393" fromTop="36" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="393" fromTop="23" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="393" fromTop="25" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="393" fromTop="18" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="16" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="42" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="37" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="18" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="24" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="19" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="19" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="405" fromTop="15" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1528" fromTop="53" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="177" fromTop="6" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1528" fromTop="13" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="513" fromTop="11" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1144" fromTop="32" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1292" fromTop="37" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="851" fromTop="29" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="649" fromTop="24" />
+      <File id="5DD989F4-6138-4EDF-9908-C44DCACC7038/f:Program.cs" caret="1528" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="if" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="new" priority="6" />
+      <Item value="Pins`0" priority="1" />
+      <Item value="OutputPort`0" priority="0" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="toFull" priority="0" />
+      <Item value="using" priority="2" />
+      <Item value="Gsiot" priority="1" />
+      <Item value="Server" priority="0" />
+      <Item value="HttpServer`0" priority="0" />
+      <Item value="RelayDomain" priority="1" />
+      <Item value="RequestRouting" priority="0" />
+      <Item value="webServer" priority="0" />
+      <Item value="RequestHandler" priority="0" />
+      <Item value="ManipulatedVariable`0" priority="0" />
+      <Item value="FromHttpRequest" priority="0" />
+      <Item value="CSharpRepresentation`0" priority="0" />
+      <Item value="ToActuator" priority="0" />
+      <Item value="DigitalActuator`0" priority="0" />
+      <Item value="OutputPin" priority="0" />
+      <Item value="RelayHost" priority="0" />
+      <Item value="Port" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="IO" priority="0" />
+      <Item value="Stream`0" priority="0" />
+      <Item value="fly" priority="0" />
+      <Item value="PachubeClient" priority="0" />
+      <Item value="PachubeClient`0" priority="0" />
+      <Item value="response" priority="1" />
+      <Item value="status" priority="0" />
+      <Item value="NetduinoPlus" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="Debug`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gsiot.Server.HttpServer">
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Gsiot.Server.CSharpRepresentation">
+      <Item value="TryDeserializeBool`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SecretLabs.NETMF.Hardware.NetduinoPlus.Pins">
+      <Item value="GPIO_PIN_D5" priority="1" />
+      <Item value="GPIO_PIN_D2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gsiot.Server.DigitalActuator">
+      <Item value="HandlePut`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Gsiot.Server.ManipulatedVariable">
+      <Item value="HandleRequest`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.SPOT.Hardware.OutputPort">
+      <Item value="Write`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SecretLabs.NETMF.Hardware.PWM">
+      <Item value="SetDutyCycle`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="StatusCode" priority="0" />
+      <Item value="GetResponseStream`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpStatusCode">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.SPOT.Debug">
+      <Item value="Print`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
